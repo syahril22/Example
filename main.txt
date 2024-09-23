@@ -1,1 +1,5 @@
 the main
+
+this noted from branc fitur 2 : 
+1. use flutter & dart
+
