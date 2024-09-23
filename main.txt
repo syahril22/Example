@@ -1,5 +1,4 @@
 the main
-
-this noted from branc fitur 2 : 
-1. use flutter & dart
+This note from fitur 1 :
+1. use nodejs and laravel
 
