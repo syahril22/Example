@@ -1,1 +1,6 @@
 the main
+
+This note from fitur 1 :
+1. use nodejs and laravel
+
+
